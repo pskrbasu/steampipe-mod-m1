@@ -5,3 +5,7 @@ query "m1_q1"{
 query "Q2"{
     sql = "select 2.2 as version"
 }
+
+query "Q1"{
+    sql = "select 2.3 as version"
+}
